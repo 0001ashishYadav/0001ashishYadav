@@ -6,6 +6,7 @@
 - HTML, CSS
 - JavaScipt
 - React Js
+- Next Js
 - Tailwind CSS
 - Web Development
 
