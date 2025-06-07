@@ -8,6 +8,7 @@
 - React Js
 - Next Js
 - Tailwind CSS
+- Bootstrap 
 - Web Development
 
 <h3>Tools </h3>
